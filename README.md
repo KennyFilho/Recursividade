@@ -1,5 +1,4 @@
 # Recursividade
-Trabalho de recursividade
 def vazio(lista):
  return lista == []
 
